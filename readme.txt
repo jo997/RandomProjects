@@ -7,5 +7,6 @@ Small Random Projects:
 - DetectStuff: A detection script for different things.     
 - MazePath: A path finding simu in python.   
 - RPS Game: Just a simple Rock Paper Scissors game.  
-- FluidSim: FLuid Simulation based on a video from Ten Minute Physics.  
+- ProbNum: Testing the probabilistic-numerics package in python.  
+- FluidSim: Fluid Simulation based on a video from Ten Minute Physics.  
 
